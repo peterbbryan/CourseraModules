@@ -1,0 +1,23 @@
+*{
+	box-sizing: border-box;
+}
+div{
+	margin:auto;
+}
+
+.text-center{
+	font-size: 30px;
+}
+.food-item{
+	background-color:gray;
+	margin: 5px 0px 5px 0px;
+}
+.food-grid{
+	margin: 30px;
+	padding: 5px 25px 5px 25px;
+	background-color: orange;
+}
+.navbar .navbar-collapse {
+	text-align: center;
+	font-size: 20px;
+}
